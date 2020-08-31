@@ -23,7 +23,7 @@ Below exercises were created using the following configurations:
 
 # 🏑 Exercises
 
-> Currently under active development, please Start and Watch this repository for the updates.
+> Currently under active development, please `Star` and `Watch` this repository for the updates.
 
 # ⏭ What's next?
 

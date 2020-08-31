@@ -1,3 +1,3 @@
-# Apache JMeter Exercises
+# ⚡ Apache JMeter Exercises
 
 > Currently under active development

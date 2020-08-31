@@ -6,8 +6,6 @@
 [![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=1EAEDB)](https://www.youtube.com/user/QAInsights?sub_confirmation=1)
 [![](https://img.shields.io/badge/donate-paypal-1EAEDB)](https://www.paypal.com/paypalme/NAVEENKUMARN)
 
-> Currently under active development
-
 # 🛠 Enviroment Setup
 
 Below exercises were created using the following configurations:
@@ -25,9 +23,11 @@ Below exercises were created using the following configurations:
 
 # 🏑 Exercises
 
+> Currently under active development, please Start and Watch this repository for the updates.
+
 # ⏭ What's next?
 
 * [LoadRunner Exercises](https://github.com/QAInsights/LoadRunner-Exercises)
 
-## 💰 Donate
+# 💰 Donate
 ☕ <a target="_blank" href="https://www.buymeacoffee.com/qainsights">Buy me a tea</a>

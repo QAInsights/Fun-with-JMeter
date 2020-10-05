@@ -31,7 +31,7 @@ Below exercises were created using the following configurations:
 
 # 🏑 Exercises
 
-> Currently under active development, please `Star` and `Watch` this repository for the updates.
+Exercises are now available in [GitHub Learning Hub](https://lab.github.com/QAInsights/fun-with-jmeter).
 
 # ⏭ What's next?
 
